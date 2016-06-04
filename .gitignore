@@ -65,3 +65,4 @@ target/
 *.suo
 *.pyproj
 *.sln
+.vs/
